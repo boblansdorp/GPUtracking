@@ -1,2 +1,2 @@
 # GPUtracking
-CUDA based particle tracking
+Labview and CUDA based particle tracking
